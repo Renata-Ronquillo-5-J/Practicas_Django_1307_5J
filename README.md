@@ -14,6 +14,11 @@ Aquí se realizan las practicas en Django que es un Framework, Marco de trabajo
 - 11 Crear el proyecto en python  Django --> django-admin startproject web_project .
 - 12 Ejecutar el servidor --> python manage.py runserve
 - 13 Realizar migracion --> python manage.py migrate
-- 14. Vuelve a ejecutar el servidor 
+- 14. Vuelve a ejecutar el servidor
+ 
+![image](https://github.com/user-attachments/assets/b34ed613-d475-4fa8-bed7-4cd982e7452d)
+![image](https://github.com/user-attachments/assets/ed0cba6f-83ea-41ea-a1c6-224103f2110c)
+
+
 
 
